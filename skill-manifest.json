@@ -5,6 +5,10 @@
     {
       "name": "ai-image-generation",
       "path": "skills/ai-image-generation"
+    },
+    {
+      "name": "brand-guidelines",
+      "path": "skills/brand-guidelines"
     }
   ]
 }

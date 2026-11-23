@@ -9,6 +9,10 @@
     {
       "name": "brand-guidelines",
       "path": "skills/brand-guidelines"
+    },
+    {
+      "name": "dsh-plugin-ops",
+      "path": "skills/dsh-plugin-ops"
     }
   ]
 }

@@ -13,6 +13,10 @@
     {
       "name": "find-skills",
       "path": "skills/find-skills"
+    },
+    {
+      "name": "pcb-layout-review",
+      "path": "skills/pcb-layout-review"
     }
   ]
 }
